@@ -23,6 +23,7 @@ Provides real-time updates on the status of all items in the inventory.
 Graphical User Interface (GUI):
 
 Intuitive interface designed using Python's tkinter library.
+
 Organized into tabs:
 Login Tab: For user authentication.
 Content Notifier Tab: For managing and tracking items.
@@ -32,3 +33,5 @@ User Feedback:
 
 Alerts users with messages about nearing or expired items.
 Provides success or error messages for actions like adding items or entering invalid data.
+
+
